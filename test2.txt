@@ -1,1 +1,3 @@
 Test2 dosyası oluşturuldu.
+
+Test2 dosyası test branchte değiştiriyorum.
